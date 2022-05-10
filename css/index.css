@@ -2042,6 +2042,7 @@ figure.highlight pre .javascript .function {
   -ms-flex-direction: column;
   flex-direction: column;
   min-height: 100vh;
+  background-image: url('../img/back3.jpg');
 }
 .layout {
   display: -webkit-box;
