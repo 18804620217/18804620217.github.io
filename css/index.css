@@ -348,6 +348,7 @@ hr:before,
   -ms-animation: titleScale 1s;
   animation: titleScale 1s;
 }
+
 #nav.show {
   -webkit-animation: headerNoOpacity 1s;
   -moz-animation: headerNoOpacity 1s;
